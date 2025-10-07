@@ -1,6 +1,6 @@
 # ✨ Hello, there! ✨
 
-### Feel free to check out my projects! They include machine learning, web-dev, game eevelopment, and more! My goal is to continuously learn, build, and contribute to new and exciting projects, so stick around!
+### Feel free to check out my projects! They include machine learning, web-dev, game development, and more! My goal is to continuously learn, build, and contribute to new and exciting projects, so stick around!
 
 <!--
 **Divsth/Divsth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
